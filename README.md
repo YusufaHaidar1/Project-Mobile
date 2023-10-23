@@ -33,7 +33,7 @@ Anggota 1
 
 Nama : Achmad Chaidar Ismail  
 
-Akun Github : Chaidaris/Project-Mobile: Project Mobile Semester 5 (github.com) 
+Akun Github : https://github.com/Chaidaris/Project-Mobile
 
 Tugas/Peran : Dokumentasi dan pengerjaan laporan  
 
