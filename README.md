@@ -40,7 +40,7 @@ Tugas/Peran : Dokumentasi dan pengerjaan laporan
 
 Foto :  
 
- 
+![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/a908acba-aeb8-4796-b7d0-1f48c8dfa4b3)
 
 Anggota 2  
 
