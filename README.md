@@ -1,4 +1,4 @@
-# Project-Mobile
+![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/5aab4f1d-61c5-4935-8b27-2966da1fdd39)# Project-Mobile
 Project UTS Mobile Semester 5
 
 # Latar Belakang
@@ -6,6 +6,8 @@ Project UTS Mobile Semester 5
 Dalam konteks kepemimpinan Mr. X sebagai Direktur Politeknik terbesar di Indonesia, perhatian terhadap kualitas layanan pendidikan dan aspek pendukung di kampus menjadi sebuah isu yang penting. Politeknik tersebut telah menarik perhatian mahasiswa dari berbagai latar belakang, termasuk mahasiswa kelas Internasional yang memperkaya keragaman kampus. Dalam upaya untuk terus meningkatkan kualitas layanan yang diberikan kepada mahasiswa, Mr. X telah memutuskan untuk melakukan survei yang fokus pada masalah komplain yang disampaikan oleh mahasiswa. Survei ini mencakup beberapa faktor kunci, seperti Sumberdaya dan Dukungan Akademik, Layanan Kantin dan Makanan, serta faktor lain yang mungkin memengaruhi pengalaman belajar mahasiswa. Untuk memudahkan partisipasi mahasiswa, survei tersebut telah diintegrasikan ke dalam aplikasi mobile, memanfaatkan teknologi untuk mengumpulkan data dengan lebih efisien. Tahap pertama dari proyek ini akan memfokuskan pada pengumpulan data mentah secara tekstual, tanpa melakukan analisis atau pengolahan data lebih lanjut. Dengan demikian, tahap pertama dari proyek survei ini bertujuan untuk mendapatkan wawasan awal yang berasal langsung dari suara mahasiswa, sehingga hasil survei ini dapat membantu dalam merumuskan langkah-langkah perbaikan yang akan diambil untuk meningkatkan kualitas layanan pendidikan dan aspek pendukung di kampus Politeknik ini. 
 
 # Penjelasan Flowchart
+
+![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/ce722a25-255e-4413-b2eb-2ae36ddf8b61)
 
 1. Aplikasi mengambil data melalui REST API dari server localhost. Proses ini melibatkan GET request ke endpoint API kemudian diubah menjadi bentuk list. 
 2. Aplikasi akan menghitung total responden dari panjang data kemudian hasilnya akan ditampilkan dalam dashboard. 
@@ -51,6 +53,8 @@ Tugas/Peran : Dokumentasi dan pengerjaan laporan
 
 Foto :  
 
+![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/d719e406-a71a-4dde-be8d-b72b8fd305d0)
+
 Anggota 3  
 
 Nama: Sabilla Nadia Islamia 
@@ -61,6 +65,8 @@ Tugas/Peran : pengerjaan program
 
 Foto :  
 
+![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/fe57db24-b6e2-4ae4-80ee-ed654d71c96a)
+
 Anggota 4  
 
 Nama : Yusufa Haidar  
@@ -70,6 +76,8 @@ Akun Github : https://github.com/YusufaHaidar1/Project-Mobile
 Tugas/Peran : pengerjaan program  
 
 Foto :  
+
+![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/47acd7e6-ead5-4cb5-affc-b28887f8358d)
 
 Screenshot Program
 
