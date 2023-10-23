@@ -25,7 +25,35 @@ Pada halaman ini user dapat melihat total responden, jumlah kategori, rata- rata
 Pada Halaman ini menunjukkan seluruh data detail dari faktor yang dipermasalahkan oleh mahasiswa. Beberapa factor tersebut adalah Sumberdaya dan Dukungan Akademik (Academic Support and Resources), Layanan Kantin dan Makanan (Food and Cantines), dan lainnya (Others). Kemudian pada setiap faktornya terdapat laporan/kendala yang dikeluhkan sesuai dengan kategori yang disampaikan. Pada halaman ini pula terdapat bagian detail lebih lanjut untuk melihat data pengirim responden.
 
 3. Halaman Detail Complain  
-Pada halaman ini menunjukkan detail data lengkap masing-masing para pemberi responden. Data lengkap tersebut terdiri dari Genre, Reports, jenis kelamin, umur, GPA, Tahun, dan negara asal. 
+Pada halaman ini menunjukkan detail data lengkap masing-masing para pemberi responden. Data lengkap tersebut terdiri dari Genre, Reports, jenis kelamin, umur, GPA, Tahun, dan negara asal.
+
+# Daftar Konstributor 
+
+Anggota 1 
+Nama : Achmad Chaidar Ismail  
+Akun Github : Chaidaris/Project-Mobile: Project Mobile Semester 5 (github.com) 
+Tugas/Peran : Dokumentasi dan pengerjaan laporan  
+Foto :  
+
+ 
+
+Anggota 2  
+Nama : Angelina Balqis Khansa  
+Akun Github : https://github.com/AngelinaBalqisK/UTS_Project-Mobile/tree/master  
+Tugas/Peran : Dokumentasi dan pengerjaan laporan  
+Foto :  
+
+Anggota 3  
+Nama: Sabilla Nadia Islamia 
+Akun Github : https://github.com/SabilaNadia02/Project-Mobile  
+Tugas/Peran : pengerjaan program  
+Foto :  
+
+Anggota 4  
+Nama : Yusufa Haidar  
+Akun Github : https://github.com/YusufaHaidar1/Project-Mobile  
+Tugas/Peran : pengerjaan program  
+Foto :  
 
 Screenshot Program
 
