@@ -21,12 +21,15 @@ Dalam konteks kepemimpinan Mr. X sebagai Direktur Politeknik terbesar di Indones
 
 1. Home page program 
 Pada halaman ini user dapat melihat total responden, jumlah kategori, rata- rata GPA, dan rata-rata Age. Pada halaman ini juga menunjukkan chart pie yang memeperlihatkan persenan para responden berdasarkan gender dan pada bagian bawah chart terdapat bubble yang menunjukkan berapa banyak responden berdasarkan negara.
+![WhatsApp Image 2023-10-23 at 13 08 25_f5a7764e](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/4f8fc924-a51d-4de0-af1c-45deaf3fd0d4)
 
 2. Tab detail  
 Pada Halaman ini menunjukkan seluruh data detail dari faktor yang dipermasalahkan oleh mahasiswa. Beberapa factor tersebut adalah Sumberdaya dan Dukungan Akademik (Academic Support and Resources), Layanan Kantin dan Makanan (Food and Cantines), dan lainnya (Others). Kemudian pada setiap faktornya terdapat laporan/kendala yang dikeluhkan sesuai dengan kategori yang disampaikan. Pada halaman ini pula terdapat bagian detail lebih lanjut untuk melihat data pengirim responden.
+![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/1d01b99a-ff0d-4f31-9a1b-e6cfb6ab1bda)
 
 3. Halaman Detail Complain  
 Pada halaman ini menunjukkan detail data lengkap masing-masing para pemberi responden. Data lengkap tersebut terdiri dari Genre, Reports, jenis kelamin, umur, GPA, Tahun, dan negara asal.
+![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/17f36d8d-8a45-4d1d-8d2c-873045de1465)
 
 # Daftar Konstributor 
 
@@ -77,13 +80,3 @@ Tugas/Peran : pengerjaan program
 Foto :  
 
 ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/47acd7e6-ead5-4cb5-affc-b28887f8358d)
-
-Screenshot Program
-
-![WhatsApp Image 2023-10-23 at 13 08 25_f5a7764e](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/4f8fc924-a51d-4de0-af1c-45deaf3fd0d4)
-
-Tab Detail
-
-![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/1d01b99a-ff0d-4f31-9a1b-e6cfb6ab1bda)
-
-![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/17f36d8d-8a45-4d1d-8d2c-873045de1465)
