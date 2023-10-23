@@ -29,6 +29,7 @@ Pada Halaman ini menunjukkan seluruh data detail dari faktor yang dipermasalahka
 
 3. Halaman Detail Complain  
 Pada halaman ini menunjukkan detail data lengkap masing-masing para pemberi responden. Data lengkap tersebut terdiri dari Genre, Reports, jenis kelamin, umur, GPA, Tahun, dan negara asal.
+
 ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/17f36d8d-8a45-4d1d-8d2c-873045de1465)
 
 # Daftar Konstributor 
