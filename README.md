@@ -30,7 +30,6 @@ Pada halaman ini menunjukkan detail data lengkap masing-masing para pemberi resp
 # Daftar Konstributor 
 
 Anggota 1 
-
 Nama : Achmad Chaidar Ismail  
 Akun Github : Chaidaris/Project-Mobile: Project Mobile Semester 5 (github.com) 
 Tugas/Peran : Dokumentasi dan pengerjaan laporan  
