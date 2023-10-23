@@ -16,6 +16,17 @@ Dalam konteks kepemimpinan Mr. X sebagai Direktur Politeknik terbesar di Indones
 7. Aplikasi akan menghitung rata rata umur dari kolom Age. Kemudian hasilnya akan ditampilkan dalam dashboard. 
 8. Aplikasi akan menampilkan data detail dari komplain secara bertahap akan menampilkan semua komplain dengan kolom genre dan report, lalu apabila ingin menampilkan data yang lebih detail dapat melanjutkan masuk ke kolom detail.
 
+# Output
+
+1. Home page program 
+Pada halaman ini user dapat melihat total responden, jumlah kategori, rata- rata GPA, dan rata-rata Age. Pada halaman ini juga menunjukkan chart pie yang memeperlihatkan persenan para responden berdasarkan gender dan pada bagian bawah chart terdapat bubble yang menunjukkan berapa banyak responden berdasarkan negara.
+
+2. Tab detail  
+Pada Halaman ini menunjukkan seluruh data detail dari faktor yang dipermasalahkan oleh mahasiswa. Beberapa factor tersebut adalah Sumberdaya dan Dukungan Akademik (Academic Support and Resources), Layanan Kantin dan Makanan (Food and Cantines), dan lainnya (Others). Kemudian pada setiap faktornya terdapat laporan/kendala yang dikeluhkan sesuai dengan kategori yang disampaikan. Pada halaman ini pula terdapat bagian detail lebih lanjut untuk melihat data pengirim responden.
+
+3. Halaman Detail Complain  
+Pada halaman ini menunjukkan detail data lengkap masing-masing para pemberi responden. Data lengkap tersebut terdiri dari Genre, Reports, jenis kelamin, umur, GPA, Tahun, dan negara asal. 
+
 Screenshot Program
 
 ![WhatsApp Image 2023-10-23 at 13 08 25_f5a7764e](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/4f8fc924-a51d-4de0-af1c-45deaf3fd0d4)
