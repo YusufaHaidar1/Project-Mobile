@@ -30,29 +30,45 @@ Pada halaman ini menunjukkan detail data lengkap masing-masing para pemberi resp
 # Daftar Konstributor 
 
 Anggota 1 
+
 Nama : Achmad Chaidar Ismail  
+
 Akun Github : Chaidaris/Project-Mobile: Project Mobile Semester 5 (github.com) 
+
 Tugas/Peran : Dokumentasi dan pengerjaan laporan  
+
 Foto :  
 
  
 
 Anggota 2  
+
 Nama : Angelina Balqis Khansa  
+
 Akun Github : https://github.com/AngelinaBalqisK/UTS_Project-Mobile/tree/master  
+
 Tugas/Peran : Dokumentasi dan pengerjaan laporan  
+
 Foto :  
 
 Anggota 3  
+
 Nama: Sabilla Nadia Islamia 
+
 Akun Github : https://github.com/SabilaNadia02/Project-Mobile  
+
 Tugas/Peran : pengerjaan program  
+
 Foto :  
 
 Anggota 4  
+
 Nama : Yusufa Haidar  
+
 Akun Github : https://github.com/YusufaHaidar1/Project-Mobile  
+
 Tugas/Peran : pengerjaan program  
+
 Foto :  
 
 Screenshot Program
