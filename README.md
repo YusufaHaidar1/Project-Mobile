@@ -1,4 +1,3 @@
-![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/5aab4f1d-61c5-4935-8b27-2966da1fdd39)# Project-Mobile
 Project UTS Mobile Semester 5
 
 # Latar Belakang
