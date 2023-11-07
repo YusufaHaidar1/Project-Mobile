@@ -21,6 +21,7 @@ Dalam konteks kepemimpinan Mr. X sebagai Direktur Politeknik terbesar di Indones
 
 1. Home page program 
 Pada halaman ini user dapat melihat total responden, jumlah kategori, rata- rata GPA, dan rata-rata Age. Pada halaman ini juga menunjukkan chart pie yang memeperlihatkan persenan para responden berdasarkan gender dan pada bagian bawah chart terdapat bubble yang menunjukkan berapa banyak responden berdasarkan negara.
+
 ![WhatsApp Image 2023-10-23 at 13 08 25_f5a7764e](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/4f8fc924-a51d-4de0-af1c-45deaf3fd0d4)
 
 2. Tab detail  
@@ -31,6 +32,11 @@ Pada Halaman ini menunjukkan seluruh data detail dari faktor yang dipermasalahka
 Pada halaman ini menunjukkan detail data lengkap masing-masing para pemberi responden. Data lengkap tersebut terdiri dari Genre, Reports, jenis kelamin, umur, GPA, Tahun, dan negara asal.
 
 ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/17f36d8d-8a45-4d1d-8d2c-873045de1465)
+
+4. Revisi
+
+![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/f63b0ff6-e4c5-41be-afdb-169bea13d872)
+
 
 # Daftar Konstributor 
 
