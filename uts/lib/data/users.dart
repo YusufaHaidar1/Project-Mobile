@@ -3,6 +3,7 @@ class User {
   final String nim;
   final String name;
   final String phone;
+  final String status;
   final String created_at;
   final String updated_at;
 
@@ -11,6 +12,7 @@ class User {
       required this.nim,
       required this.name,
       required this.phone,
+      required this.status,
       required this.created_at,
       required this.updated_at,
       });
@@ -21,6 +23,7 @@ class User {
         nim: parsedJson['nim'],
         name: parsedJson['nama'],
         phone: parsedJson['no_telp'],
+        status: parsedJson['status'],
         created_at: parsedJson['created_at'],
         updated_at: parsedJson['updated_at']
       );
