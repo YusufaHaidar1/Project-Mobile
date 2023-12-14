@@ -7,8 +7,9 @@ import 'dart:io';
 // buat class untuk form upload
 class ReportForm extends StatefulWidget {
   final String nim;
+  final String status;
 
-  const ReportForm({super.key, required this.nim});
+  const ReportForm({super.key, required this.nim, required this.status});
   @override
   _ReportFormState createState() => _ReportFormState();
 }
@@ -16,6 +17,7 @@ class ReportForm extends StatefulWidget {
 class _ReportFormState extends State<ReportForm> {
   ReportService? service;
   String nim = '';
+  String status = '';
   String type = '';
   String chrn = '';
   File? evidence;
@@ -42,12 +44,14 @@ class _ReportFormState extends State<ReportForm> {
     service = ReportService();
     setState(() {
       nim = widget.nim;
+      status = widget.status;
     });
     super.initState();
   }
 
   @override
   Widget build(BuildContext context) {
+    if(status == "Lulus" || status == "Belum Lulus"){
     return AlertDialog(
       title: Row(
         children: [
@@ -102,7 +106,7 @@ class _ReportFormState extends State<ReportForm> {
                   // buat button untuk memilih gambar
                   ElevatedButton(
                     onPressed: pickImage,
-                    child: Text('Choose Image'),
+                    child: Text('Choose Image', style: TextStyle(color: Colors.white),),
                     style: ElevatedButton.styleFrom(
                           backgroundColor: const Color.fromARGB(255, 104, 2, 238)),
                   ),
@@ -215,5 +219,28 @@ class _ReportFormState extends State<ReportForm> {
         ),
       ),
     );
+    }else{
+      return AlertDialog(
+        content: SingleChildScrollView(
+          child: Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(style: TextStyle(fontWeight: FontWeight.bold),"Mohon Maaf anda tidak memiliki akses terhadap laporan"),
+                SizedBox(height: 5.0,),
+                Text("Status Anda: ",
+                  style: TextStyle(fontWeight: FontWeight.bold),
+                ),
+                Text(status,
+                  style: TextStyle(color: Colors.red.shade900,fontWeight: FontWeight.bold),
+                )
+              ],
+            )
+          )
+        ),
+      );
+    }
   }
 }

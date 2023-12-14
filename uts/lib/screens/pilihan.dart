@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:uts/data/users.dart';
+import 'package:uts/screens/dashboard_report.dart';
 import 'package:uts/screens/detail_report.dart';
 import 'package:uts/screens/tambah_report.dart';
 import 'package:uts/screens/Home.dart';
@@ -46,7 +47,7 @@ class _PilihanState extends State<Pilihan>{
                       onPressed: () async {
                         int? res = await showDialog(
                           context: context,
-                          builder: (context) => ReportForm(nim: widget.user.nim)
+                          builder: (context) => ReportForm(nim: widget.user.nim, status:  widget.user.status)
                         );
                         if(res != null && res == 1){
                           setState(() {
@@ -64,6 +65,15 @@ class _PilihanState extends State<Pilihan>{
                       textColor: const [Colors.white, Colors.white],
                       onPressed: () {
                         Navigator.push(context, MaterialPageRoute(builder: (_) => ListReports()));
+                      },
+                    ),
+                    SizedBox(height: 20),
+                    ButtonWidget(
+                      text: 'Visualisasi Report',
+                      backColor: const [Color.fromARGB(255, 187, 146, 253), Color.fromARGB(255, 154, 0, 237)],
+                      textColor: const [Colors.white, Colors.white],
+                      onPressed: () {
+                        Navigator.push(context, MaterialPageRoute(builder: (_) => Dashboard()));
                       },
                     ),
                   ],
