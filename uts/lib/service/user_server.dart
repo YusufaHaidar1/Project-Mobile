@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:uts/data/users.dart';
+import 'package:uts/data/by_status.dart';
 import 'package:http/http.dart' as http;
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
@@ -67,6 +68,27 @@ class UserService {
     } catch (e) {
       print(e);
       return 0;
+    }
+  }
+
+    Future<List<ByStatus>> getShowDataByStatus() async {
+    await dotenv.load(fileName: ".env");
+    final String? baseUrl = dotenv.env['SERVER_ADDRESS']! + 'show_data/by_status';
+    try{
+      http.Response response = await  http.get(Uri.parse(baseUrl!));
+      if (response.statusCode == HttpStatus.ok) {
+        print('s');
+        List<ByStatus> byStatus = [];
+        for (var item in  jsonDecode(response.body)){
+          byStatus.add(ByStatus.fromJson(item));
+        }
+        return byStatus;
+      } else {
+        throw Exception('Failed to load surveys');
+      }
+    } catch (e) {
+      print(e);
+      return [];
     }
   }
 
