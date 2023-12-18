@@ -18,25 +18,55 @@ Dalam konteks kepemimpinan Mr. X sebagai Direktur Politeknik terbesar di Indones
 8. Aplikasi akan menampilkan data detail dari komplain secara bertahap akan menampilkan semua komplain dengan kolom genre dan report, lalu apabila ingin menampilkan data yang lebih detail dapat melanjutkan masuk ke kolom detail.
 
 # Output
+1. Login Page
 
-1. Home page program 
-Pada halaman ini user dapat melihat total responden, jumlah kategori, rata- rata GPA, dan rata-rata Age. Pada halaman ini juga menunjukkan chart pie yang memeperlihatkan persenan para responden berdasarkan gender dan pada bagian bawah chart terdapat bubble yang menunjukkan berapa banyak responden berdasarkan negara.
+   Halaman login untuk user yang sudah terdaftar / datanya sudah ada didalam Database.
 
-![WhatsApp Image 2023-10-23 at 13 08 25_f5a7764e](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/4f8fc924-a51d-4de0-af1c-45deaf3fd0d4)
+   ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/d60fe377-081c-4256-938c-8b00407d940b)
 
-2. Tab detail  
-Pada Halaman ini menunjukkan seluruh data detail dari faktor yang dipermasalahkan oleh mahasiswa. Beberapa factor tersebut adalah Sumberdaya dan Dukungan Akademik (Academic Support and Resources), Layanan Kantin dan Makanan (Food and Cantines), dan lainnya (Others). Kemudian pada setiap faktornya terdapat laporan/kendala yang dikeluhkan sesuai dengan kategori yang disampaikan. Pada halaman ini pula terdapat bagian detail lebih lanjut untuk melihat data pengirim responden.
-![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/1d01b99a-ff0d-4f31-9a1b-e6cfb6ab1bda)
+2. Menu Pilihan
 
-3. Halaman Detail Complain  
-Pada halaman ini menunjukkan detail data lengkap masing-masing para pemberi responden. Data lengkap tersebut terdiri dari Genre, Reports, jenis kelamin, umur, GPA, Tahun, dan negara asal.
+   Setelah Login terdapat Halaman untuk memilih menu untuk masuk kedalam beberapa fitur yaitu Survey X (Komplain Mahasiswa), Pengaduan Kejahatan Seksual, Daftar Kejahatan Seksual, dan Visualisasi Report
 
-![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/17f36d8d-8a45-4d1d-8d2c-873045de1465)
+   ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/3e0bed34-0b0e-4054-a360-ea52df24dd16)
 
-4. Revisi
+4. Survey X
 
-![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/f63b0ff6-e4c5-41be-afdb-169bea13d872)
+   Pada halaman ini user dapat melihat total responden, jumlah kategori, rata- rata GPA, dan rata-rata Age. Pada halaman ini juga menunjukkan chart pie yang memeperlihatkan persenan para responden berdasarkan gender dan pada bagian bawah chart terdapat bubble yang menunjukkan berapa banyak responden berdasarkan negara.
 
+   ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/b588ae04-d59d-4795-89c0-4950be5e81a3)
+
+5. Tambah Data
+  
+   Masih pada halaman yang sama dengan Survey X, hanya saja Tambah Data berbentuk seperti Pop-up yang berisikan Kolom-kolom sesuai dengan data yang ada pada database Komplain Mahasiswa
+
+   ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/ee9f61d9-95d6-4285-b097-a6579530108b)
+
+6. View Details
+
+   Pada halaman ini menunjukkan detail data lengkap masing-masing para pemberi responden. Data lengkap tersebut terdiri dari Genre, Reports, jenis kelamin, umur, GPA, Tahun, dan negara asal. Untuk menampilkan Jenis Kelamin, Umur, IPK, dan Tahun dibuat dalam model dropdown, jadi ketika User menekan salah satu Komplain, maka akan muncul dropdown yang menampilkan Jenis Kelamin, Umur, IPK, dan Tahun
+
+   ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/856283d7-74c0-414d-950d-f9ea30a3be45)
+
+7. Pengaduan Kejahatan Seksual
+
+   Kembali ke menu Pilihan Fitur-fitur tadi, Menu Pengaduan Kejahatan Seksual hampir sama seperti Tambah Data pada Survey X hanya saja terdapat beberapa kondisi baru yaitu penambahan gambar, beberapa kolom baru sesuai dengan database baru untuk Reports, dan juga hanya mahasiswa yang berstatus "Belum Lulus" dan "Lulus" saja yang bisa memasukkan data Reports yang baru
+
+   ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/ba0ce9a5-1686-4c43-ada5-2c6b4452a966)
+
+   ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/330ad924-0062-4c9b-82e3-980e19f664a9)
+
+8. Daftar Kejahatan Seksual
+
+   Setelah Input data Report tadi, maka otomatis akan masuk ke Fitur Daftar Kejahatan Seksual yang berbentuk list dan dropdown untuk menampilkan keseluruhan report yang ada, judul pada dropdown akan berisikan NIM dan Jenis Kejahatan dengan subtitle deskripsi dari kejahatan yang dilakukan, untuk dropdown sendiri berisikan gambar / evidence dari kejahatan, sekaligus nama, dan tanggal report dibuat
+
+   ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/17a34115-0c66-45e2-9b4f-9990245ce2fc)
+
+9. Dashboard Report
+
+    Kembali ke Menu Pilihan dan memilih Dashboard, maka akan di direct menuju halaman Dashboard untuk visualisasi, visualisasi yang ada yaitu Status Kelulusan dari seluruh data Mahasiswa, dan dikelompokkan berdasar Lulus dan Tidak Lulus saja.
+
+   ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/5a2131f7-789d-4d72-885e-b6387417008f)
 
 # Daftar Konstributor 
 
