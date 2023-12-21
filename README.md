@@ -68,6 +68,10 @@ Dalam konteks kepemimpinan Mr. X sebagai Direktur Politeknik terbesar di Indones
 
    ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/5a2131f7-789d-4d72-885e-b6387417008f)
 
+   Link Video Youtube : https://www.youtube.com/watch?v=8kpBA2Kvo80
+   
+   (P.S) (Untuk Instalasi App pada Device error dikarenakan memang sudah problem device nya sudah tercantum pada link github berikut https://github.com/flutter/flutter/issues/134307, bahwa memang device khususnya VIVO dan Android 13 masih mengalami stuck pada tahap instalasi)
+
 # Daftar Konstributor 
 
 Anggota 1 
